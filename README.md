@@ -1,2 +1,2 @@
 # Competitive
-A collection of Competitive programming solutions
+A collection of Competitive programming solutions using Python
